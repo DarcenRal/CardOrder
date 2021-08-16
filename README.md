@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/70yi14027q9jpmv0?svg=true)](https://ci.appveyor.com/project/DarcenRal/cardorder)
